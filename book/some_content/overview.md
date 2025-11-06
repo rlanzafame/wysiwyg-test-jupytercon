@@ -5,13 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 `sdkjfhsdkfjh`
 
-``
-
-
-
-
-
-
+\`\`
 
 ```{math}
 E=mc^2+sdljkfn
